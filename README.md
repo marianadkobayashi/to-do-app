@@ -1,3 +1,3 @@
 # to-do-app
 
-Create To dos, mark them as completed and delete them.
+Create Todos, mark them as completed and delete them.
